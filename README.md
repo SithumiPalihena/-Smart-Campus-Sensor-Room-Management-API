@@ -1,4 +1,5 @@
 Smart Campus Sensor & Room Management API
+============
 
 A RESTful API built with Java 11, JAX-RS (Jersey 2.39.1), and Jackson, deployed as a WAR on Apache Tomcat 10. It manages campus rooms and IoT sensor devices (temperature, CO₂, occupancy, etc.) and follows HATEOAS conventions every response includes _links that tell clients where to go next.
 
@@ -172,6 +173,7 @@ smart-campus/
 
 
 Report: Answers to Coursework Questions
+============
 
 
 1. Service Architecture & Setup
